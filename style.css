@@ -1,0 +1,35 @@
+.stay-focuse{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+span{
+    color: aqua;
+}
+#stay{
+    font-size: 50px; 
+    border-left: 3px solid brown;
+}
+p{
+    text-align: justify;
+    padding-right: 20%;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px;
+   background-color: rgb(214, 21, 7);
+    color: white;
+    font-weight: 700;
+}
+#my-mission{
+    color: rgb(15, 6, 51);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+#color{
+    color: rgb(240, 120, 7);
+}
