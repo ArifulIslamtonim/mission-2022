@@ -23,7 +23,7 @@ font-family: 'Quicksand', sans-serif;
     color: white;
     font-weight: 700;
 }
-#my-mission{
+.my-mission{
     color: rgb(15, 6, 51);
     font-size: 50px;
     text-align: center;
@@ -32,4 +32,41 @@ font-family: 'Quicksand', sans-serif;
 }
 #color{
     color: rgb(240, 120, 7);
+}
+#mission{
+   border-radius: 25px;
+    width: 30%;
+    height: 420px;
+    padding-left: 10px;
+    margin-left: 10%;
+    background-color: rgb(157, 177, 207);
+}
+#vision{
+    border-radius: 25px;
+    width: 30%;
+    height: 420px;
+    padding-left: 1%;
+    margin-left: 2%;
+    background-color: rgb(233, 171, 219)
+}
+#goals{
+    border-radius: 25px;
+    width: 30%;
+    height: 420px;
+    padding-left: 10px;
+    margin-left: 2%;
+    margin-right: 10%;
+    background-color: rgb(131, 216, 176)
+}
+.mission-vision-goal{
+    display: flex;
+   
+}
+.style{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    padding-left: 5%;
+}
+.style-pra{
+    padding-left: 5%;
 }
