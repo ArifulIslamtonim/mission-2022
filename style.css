@@ -6,22 +6,24 @@
 span{
     color: aqua;
 }
-#stay{
+.stay{
     font-size: 50px; 
     border-left: 3px solid brown;
 }
-p{
+.pra{
     text-align: justify;
     padding-right: 20%;
     font-family: 'Poppins', sans-serif;
 font-family: 'Quicksand', sans-serif;
+    margin-bottom: 5%;
 }
 .link-button{
     text-decoration: none;
-    padding: 10px;
+    padding: 12px;
    background-color: rgb(214, 21, 7);
     color: white;
     font-weight: 700;
+    border-radius: 10px;
 }
 .my-mission{
     color: rgb(15, 6, 51);
@@ -60,6 +62,8 @@ font-family: 'Quicksand', sans-serif;
 }
 .mission-vision-goal{
     display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
    
 }
 .style{
@@ -69,4 +73,25 @@ font-family: 'Quicksand', sans-serif;
 }
 .style-pra{
     padding-left: 5%;
+}
+#border{
+    border-left: none;
+    margin-left: 15%;
+}
+.developer{
+   margin-top: 8%; 
+   background-image: url(shapes/shape-1.png);
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: 200px;
+}
+.para{
+    margin-left: 15%;
+    margin-bottom: 5%;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+#link{
+    margin-left: 15%;
+    padding: 2%;
 }
